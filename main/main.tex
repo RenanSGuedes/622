@@ -1,7 +1,141 @@
 \documentclass[a4paper, 12pt]{article}
 
-\usepackage{config}
+%\usepackage{config}
+
+% page margin 
+\usepackage[
+top=2cm,
+right=2.5cm,
+bottom=2cm,
+left=2.5cm
+]{geometry}
+
+% language and characters
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{
+	amsmath,
+	amsfonts,
+	amssymb
+}
+
+% colors
+\usepackage{xcolor}
+\usepackage{float}
+
+% watermark config
+\usepackage{xwatermark}
+%\newwatermark[allpages, scale=4, angle=60, color=red!30]{text}
+
+% equations numbering
+\numberwithin{equation}{section}
+
+% graphics insertion
+\usepackage{graphicx}
+\usepackage{subfig}
+
+% references in the document (for equations, sections, images, websites)
+\usepackage{hyperref}
+\usepackage[]{cleveref}
+
+% manual draw
+\usepackage{tikz}
 
 \begin{document}
-	\section{First section}
+	\section{Cana-de-açúcar variedade RB867515}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/cana/g1_20150817}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/cana/g2_20150817}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/cana/g3_20150817}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/cana/g4_20150817}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/cana/g5_20150817}}
+			\caption{Cana de açúcar - 17/08/2015}
+			\label{fig:g120150817}
+		\end{figure}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/cana/g1_20151019}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/cana/g2_20151019}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/cana/g3_20151019}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/cana/g4_20151019}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/cana/g5_20151019}}
+			\caption{Cana de açúcar - 19/10/2015}
+			\label{fig:g120151019}
+		\end{figure}
+	\section{Pata de vaca}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/pata/g1_20161128}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/pata/g2_20161128}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/pata/g3_20161128}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/pata/g4_20161128}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/pata/g5_20161128}}
+			\caption{Pata de Vaca - 28/11/2016}
+			\label{fig:g120161128}
+		\end{figure}
+	\section{Myrtaceae}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/myrtaceae/g1_20161130}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/myrtaceae/g2_20161130}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/myrtaceae/g3_20161130}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/myrtaceae/g4_20161130}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/myrtaceae/g5_20161130}}
+			\caption{Myrtaceae - 30/11/2016}
+			\label{fig:g120161130}
+		\end{figure}
+	\section{Grumixama}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/grumixama/g1_20131203}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/grumixama/g2_20131203}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/grumixama/g3_20131203}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/grumixama/g4_20131203}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/grumixama/g5_20131203}}
+			\caption{Grumixama - 03/12/2013}
+			\label{fig:g120131203}
+		\end{figure}
+	\section{Eucalipto}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/eucalipto/g1_20080324}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g2_20080324}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g3_20080324}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g4_20080324}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g5_20080324}}
+			\caption{Eucalipto - 24/03/2008}
+			\label{fig:g120080324}
+		\end{figure}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/eucalipto/g1_20080325}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g2_20080325}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g3_20080325}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g4_20080325}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g5_20080325}}
+			\caption{Eucalipto - 25/03/2008}
+			\label{fig:g120080325}
+		\end{figure}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/eucalipto/g1_20080617}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g2_20080617}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g3_20080617}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g4_20080617}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g5_20080617}}
+			\caption{Eucalipto - 17/06/2008}
+			\label{fig:g120080617}
+		\end{figure}
+		\begin{figure}[H]
+			\centering
+			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/eucalipto/g1_20080618}}
+			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g2_20080618}}\\
+			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g3_20080618}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/eucalipto/g4_20080618}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/eucalipto/g5_20080618}}
+			\caption{Eucalipto - 18/06/2008}
+			\label{fig:g120080618}
+		\end{figure}
 \end{document}
