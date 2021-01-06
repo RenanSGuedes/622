@@ -14,6 +14,7 @@ left=2.5cm
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[brazilian]{babel}
+\usepackage{indentfirst	}
 \usepackage{
 	amsmath,
 	amsfonts,
@@ -39,10 +40,47 @@ left=2.5cm
 \usepackage{hyperref}
 \usepackage[]{cleveref}
 
+\usepackage{siunitx}
+
 % manual draw
 \usepackage{tikz}
 
 \begin{document}
+	\begin{titlepage}
+		\begin{center}
+			\textbf{\href{https://www.unicamp.br/unicamp/}{Universidade Estadual de Campinas}}\\\vspace{1cm}
+			\href{https://www.feagri.unicamp.br/portal/}{Faculdade de Engenharia Agrícola}\\\vspace{5cm}
+			%\textbf{}\\\vspace{1cm}
+			\large{Trabalho Final de FA622}\\\vspace{4cm}
+		\end{center}
+		
+		\hspace{8cm}\parbox{7cm}{Relatório apresentado como parte da avaliação da disciplina FA622¨ - Sistema Solo-Planta-Atmosfera, sob responsabilidade do Prof. Dr. José Teixeira}\\\vspace{4cm}
+		
+		RENAN DA SILVA GUEDES - 223979\\\vspace{4cm}
+		\begin{center}
+			CAMPINAS - SP\\\vspace{.2cm}
+			AGOSTO
+		\end{center}
+		
+	\end{titlepage}
+
+	\newpage
+	
+	\tableofcontents
+	\listoffigures
+	
+	\newpage
+	
+	\section{Introdução}
+	
+	A seguir temos um estudo referente às características de transpiração apresentadas pelas folhas de diferentes espécies vegetais. Com base nos gráficos, é possível analisar a transpiração foliar (E), o déficit de pressão de vapor (DPV) e a radiação fotossinteticamente ativa (PAR). Com bases nesses parâmetros foi possível obter os dados em diferentes instantes de tempo e potenciais hídricos das plantas ($\Psi_{\textrm{pd}}$) como é visto na legenda.
+	
+	A primeira parte do estudo diz respeito à cana de açucar variedade RB67515. Para a mesma a coleta de dados foi feita em duas datas, sendo a primeira em 17/08/2015 e a segunda em 19/10/2015 (Figuras 1 e 2). Com base nisso, nota-se que as duas coletas objetivaram a aquisição de dados em duas condições ambientais diferentes, permitindo comparar a variação dos parâmetros referidos com base em tal mudança.
+	
+	Quando analisamos a transpiração das plantas de cana nota-se que na primeira data -- 17/08/15 -- a taxa de transpiração foi menor em média quando comparado ao dia 19/10/15. Isso demonstra que a planta com maior potencial hídrico ($\Psi_{\textrm{pd}}=\SI{-0.14}{\mega\pascal}$) obteve a maior taxa de transpiração ($\textrm{E}$ por volta de $\SI{8.5}{\milli\mole\cdot\meter^{2}\cdot\second^{-1}}$). Entretanto, ao analisar o intervalo entre as 10h00 e 14h00 vê-se que a região onde ocorreu estabilização da taxa estava ao potencial de \SI{-.16}{\mega\pascal}, no dia 19/10/15, correspondendo a $\SI{2.85}{\milli\mole\cdot\meter^{2}\cdot\second^{-1}}$ de E. Quando é feita a mesma análise para o dia 17 temos que para $\Psi_{\textrm{pd}}=\SI{-0.18}{\mega\pascal}$ o valor de E foi de $\SI{2.56}{\milli\mole\cdot\meter^{2}\cdot\second^{-1}}$, demonstrando que a redução do $\Psi_{\textrm{pd}}$ é proporcional ao valor de E. 
+	
+	No que diz respeito à radiação fotossinteticamente ativa (PAR), vê-se que no dia 19 as médias dos valores de PAR para diferentes indivíduos são bem próximas, colaborando para o padrão de curvas sobrepostas observado. Todavia, para o dia 17 ao potencial de \SI{-18}{\mega\pascal} houve menor tendência de sobreposição. Nota-se que o maior valor de PAR ocorre para menores valores de potencial -- dia 17, correspondendo a $\SI{2010.50}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ às 13h00.
+	
 	\section{Cana-de-açúcar variedade RB867515}
 		\begin{figure}[H]
 			\centering
