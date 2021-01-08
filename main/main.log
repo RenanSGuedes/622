@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.3)  5 JAN 2021 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.3)  8 JAN 2021 00:00
 entering extended mode
 **./main.tex
 (main.tex
@@ -1253,57 +1253,66 @@ been already used, duplicate ignored
                    \relax 
 l.72 	\newpage
                [1]
-<assets/cana/g1_20150817.pdf, id=71, 361.35pt x 180.675pt>
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+<assets/cana/g1_20150817.pdf, id=97, 361.35pt x 180.675pt>
 File: assets/cana/g1_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g1_20150817.pdf>
-Package pdftex.def Info: assets/cana/g1_20150817.pdf  used on input line 87.
+Package pdftex.def Info: assets/cana/g1_20150817.pdf  used on input line 102.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g2_20150817.pdf, id=72, 361.35pt x 180.675pt>
+<assets/cana/g2_20150817.pdf, id=98, 361.35pt x 180.675pt>
 File: assets/cana/g2_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g2_20150817.pdf>
-Package pdftex.def Info: assets/cana/g2_20150817.pdf  used on input line 88.
+Package pdftex.def Info: assets/cana/g2_20150817.pdf  used on input line 103.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g3_20150817.pdf, id=73, 361.35pt x 180.675pt>
+<assets/cana/g3_20150817.pdf, id=99, 361.35pt x 180.675pt>
 File: assets/cana/g3_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g3_20150817.pdf>
-Package pdftex.def Info: assets/cana/g3_20150817.pdf  used on input line 89.
+Package pdftex.def Info: assets/cana/g3_20150817.pdf  used on input line 104.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g4_20150817.pdf, id=74, 361.35pt x 180.675pt>
+<assets/cana/g4_20150817.pdf, id=100, 361.35pt x 180.675pt>
 File: assets/cana/g4_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g4_20150817.pdf>
-Package pdftex.def Info: assets/cana/g4_20150817.pdf  used on input line 90.
+Package pdftex.def Info: assets/cana/g4_20150817.pdf  used on input line 105.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g5_20150817.pdf, id=75, 361.35pt x 180.675pt>
+<assets/cana/g5_20150817.pdf, id=101, 361.35pt x 180.675pt>
 File: assets/cana/g5_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g5_20150817.pdf>
-Package pdftex.def Info: assets/cana/g5_20150817.pdf  used on input line 91.
+Package pdftex.def Info: assets/cana/g5_20150817.pdf  used on input line 106.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g1_20151019.pdf, id=76, 361.35pt x 180.675pt>
+<assets/cana/g1_20151019.pdf, id=102, 361.35pt x 180.675pt>
 File: assets/cana/g1_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g1_20151019.pdf>
-Package pdftex.def Info: assets/cana/g1_20151019.pdf  used on input line 97.
+Package pdftex.def Info: assets/cana/g1_20151019.pdf  used on input line 112.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g2_20151019.pdf, id=77, 361.35pt x 180.675pt>
+<assets/cana/g2_20151019.pdf, id=103, 361.35pt x 180.675pt>
 File: assets/cana/g2_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g2_20151019.pdf>
-Package pdftex.def Info: assets/cana/g2_20151019.pdf  used on input line 98.
+Package pdftex.def Info: assets/cana/g2_20151019.pdf  used on input line 113.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g3_20151019.pdf, id=78, 361.35pt x 180.675pt>
+<assets/cana/g3_20151019.pdf, id=104, 361.35pt x 180.675pt>
 File: assets/cana/g3_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g3_20151019.pdf>
-Package pdftex.def Info: assets/cana/g3_20151019.pdf  used on input line 99.
+Package pdftex.def Info: assets/cana/g3_20151019.pdf  used on input line 114.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g4_20151019.pdf, id=79, 361.35pt x 180.675pt>
+<assets/cana/g4_20151019.pdf, id=105, 361.35pt x 180.675pt>
 File: assets/cana/g4_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g4_20151019.pdf>
-Package pdftex.def Info: assets/cana/g4_20151019.pdf  used on input line 100.
+Package pdftex.def Info: assets/cana/g4_20151019.pdf  used on input line 115.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g5_20151019.pdf, id=80, 361.35pt x 180.675pt>
+<assets/cana/g5_20151019.pdf, id=106, 361.35pt x 180.675pt>
 File: assets/cana/g5_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g5_20151019.pdf>
-Package pdftex.def Info: assets/cana/g5_20151019.pdf  used on input line 101.
+Package pdftex.def Info: assets/cana/g5_20151019.pdf  used on input line 116.
 (pdftex.def)             Requested size: 223.07211pt x 111.53763pt.
- [2] [3 <./assets/cana/g1_20150817.pdf> <./assets/cana/g2_20150817.pdf
+[3 <./assets/cana/g1_20150817.pdf> <./assets/cana/g2_20150817.pdf
 
 pdfTeX warning: pdflatex.exe (file ./assets/cana/g2_20150817.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
@@ -1320,30 +1329,30 @@ n: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/cana/g5_20150817.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-<assets/pata/g1_20161128.pdf, id=214, 361.35pt x 193.72375pt>
+<assets/pata/g1_20161128.pdf, id=231, 361.35pt x 193.72375pt>
 File: assets/pata/g1_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g1_20161128.pdf>
-Package pdftex.def Info: assets/pata/g1_20161128.pdf  used on input line 108.
+Package pdftex.def Info: assets/pata/g1_20161128.pdf  used on input line 123.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g2_20161128.pdf, id=215, 361.35pt x 193.72375pt>
+<assets/pata/g2_20161128.pdf, id=232, 361.35pt x 193.72375pt>
 File: assets/pata/g2_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g2_20161128.pdf>
-Package pdftex.def Info: assets/pata/g2_20161128.pdf  used on input line 109.
+Package pdftex.def Info: assets/pata/g2_20161128.pdf  used on input line 124.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g3_20161128.pdf, id=216, 361.35pt x 193.72375pt>
+<assets/pata/g3_20161128.pdf, id=233, 361.35pt x 193.72375pt>
 File: assets/pata/g3_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g3_20161128.pdf>
-Package pdftex.def Info: assets/pata/g3_20161128.pdf  used on input line 110.
+Package pdftex.def Info: assets/pata/g3_20161128.pdf  used on input line 125.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g4_20161128.pdf, id=217, 361.35pt x 193.72375pt>
+<assets/pata/g4_20161128.pdf, id=234, 361.35pt x 193.72375pt>
 File: assets/pata/g4_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g4_20161128.pdf>
-Package pdftex.def Info: assets/pata/g4_20161128.pdf  used on input line 111.
+Package pdftex.def Info: assets/pata/g4_20161128.pdf  used on input line 126.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g5_20161128.pdf, id=218, 361.35pt x 193.72375pt>
+<assets/pata/g5_20161128.pdf, id=235, 361.35pt x 193.72375pt>
 File: assets/pata/g5_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g5_20161128.pdf>
-Package pdftex.def Info: assets/pata/g5_20161128.pdf  used on input line 112.
+Package pdftex.def Info: assets/pata/g5_20161128.pdf  used on input line 127.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
  [4 <./assets/cana/g1_20151019.pdf> <./assets/cana/g2_20151019.pdf
 
@@ -1362,35 +1371,35 @@ n: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/cana/g5_20151019.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-<assets/myrtaceae/g1_20161130.pdf, id=341, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g1_20161130.pdf, id=358, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g1_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g1_20161130.pdf>
 Package pdftex.def Info: assets/myrtaceae/g1_20161130.pdf  used on input line 1
-19.
+34.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g2_20161130.pdf, id=342, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g2_20161130.pdf, id=359, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g2_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g2_20161130.pdf>
 Package pdftex.def Info: assets/myrtaceae/g2_20161130.pdf  used on input line 1
-20.
+35.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g3_20161130.pdf, id=343, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g3_20161130.pdf, id=360, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g3_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g3_20161130.pdf>
 Package pdftex.def Info: assets/myrtaceae/g3_20161130.pdf  used on input line 1
-21.
+36.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g4_20161130.pdf, id=344, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g4_20161130.pdf, id=361, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g4_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g4_20161130.pdf>
 Package pdftex.def Info: assets/myrtaceae/g4_20161130.pdf  used on input line 1
-22.
+37.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g5_20161130.pdf, id=345, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g5_20161130.pdf, id=362, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g5_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g5_20161130.pdf>
 Package pdftex.def Info: assets/myrtaceae/g5_20161130.pdf  used on input line 1
-23.
+38.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
  [5 <./assets/pata/g1_20161128.pdf> <./assets/pata/g2_20161128.pdf
 
@@ -1409,35 +1418,35 @@ n: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/pata/g5_20161128.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-<assets/grumixama/g1_20131203.pdf, id=468, 361.35pt x 202.7575pt>
+<assets/grumixama/g1_20131203.pdf, id=485, 361.35pt x 202.7575pt>
 File: assets/grumixama/g1_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g1_20131203.pdf>
 Package pdftex.def Info: assets/grumixama/g1_20131203.pdf  used on input line 1
-30.
+45.
 (pdftex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g2_20131203.pdf, id=469, 361.35pt x 202.7575pt>
+<assets/grumixama/g2_20131203.pdf, id=486, 361.35pt x 202.7575pt>
 File: assets/grumixama/g2_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g2_20131203.pdf>
 Package pdftex.def Info: assets/grumixama/g2_20131203.pdf  used on input line 1
-31.
+46.
 (pdftex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g3_20131203.pdf, id=470, 361.35pt x 202.7575pt>
+<assets/grumixama/g3_20131203.pdf, id=487, 361.35pt x 202.7575pt>
 File: assets/grumixama/g3_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g3_20131203.pdf>
 Package pdftex.def Info: assets/grumixama/g3_20131203.pdf  used on input line 1
-32.
+47.
 (pdftex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g4_20131203.pdf, id=471, 361.35pt x 202.7575pt>
+<assets/grumixama/g4_20131203.pdf, id=488, 361.35pt x 202.7575pt>
 File: assets/grumixama/g4_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g4_20131203.pdf>
 Package pdftex.def Info: assets/grumixama/g4_20131203.pdf  used on input line 1
-33.
+48.
 (pdftex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g5_20131203.pdf, id=472, 361.35pt x 202.7575pt>
+<assets/grumixama/g5_20131203.pdf, id=489, 361.35pt x 202.7575pt>
 File: assets/grumixama/g5_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g5_20131203.pdf>
 Package pdftex.def Info: assets/grumixama/g5_20131203.pdf  used on input line 1
-34.
+49.
 (pdftex.def)             Requested size: 223.07211pt x 125.17001pt.
  [6 <./assets/myrtaceae/g1_20161130.pdf> <./assets/myrtaceae/g2_20161130.pdf
 
@@ -1456,65 +1465,65 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/myrtaceae/g5_20161130.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<assets/eucalipto/g1_20080324.pdf, id=596, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080324.pdf, id=613, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080324.pdf>
 Package pdftex.def Info: assets/eucalipto/g1_20080324.pdf  used on input line 1
-41.
+56.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080324.pdf, id=597, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080324.pdf, id=614, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g2_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g2_20080324.pdf>
 Package pdftex.def Info: assets/eucalipto/g2_20080324.pdf  used on input line 1
-42.
+57.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080324.pdf, id=598, 361.35pt x 193.72375pt>
+<assets/eucalipto/g3_20080324.pdf, id=615, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g3_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g3_20080324.pdf>
 Package pdftex.def Info: assets/eucalipto/g3_20080324.pdf  used on input line 1
-43.
+58.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080324.pdf, id=599, 361.35pt x 193.72375pt>
+<assets/eucalipto/g4_20080324.pdf, id=616, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g4_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g4_20080324.pdf>
 Package pdftex.def Info: assets/eucalipto/g4_20080324.pdf  used on input line 1
-44.
+59.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080324.pdf, id=600, 361.35pt x 193.72375pt>
+<assets/eucalipto/g5_20080324.pdf, id=617, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080324.pdf>
 Package pdftex.def Info: assets/eucalipto/g5_20080324.pdf  used on input line 1
-45.
+60.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g1_20080325.pdf, id=601, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080325.pdf, id=618, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080325.pdf>
 Package pdftex.def Info: assets/eucalipto/g1_20080325.pdf  used on input line 1
-51.
+66.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080325.pdf, id=602, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080325.pdf, id=619, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g2_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g2_20080325.pdf>
 Package pdftex.def Info: assets/eucalipto/g2_20080325.pdf  used on input line 1
-52.
+67.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080325.pdf, id=603, 361.35pt x 193.72375pt>
+<assets/eucalipto/g3_20080325.pdf, id=620, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g3_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g3_20080325.pdf>
 Package pdftex.def Info: assets/eucalipto/g3_20080325.pdf  used on input line 1
-53.
+68.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080325.pdf, id=604, 361.35pt x 193.72375pt>
+<assets/eucalipto/g4_20080325.pdf, id=621, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g4_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g4_20080325.pdf>
 Package pdftex.def Info: assets/eucalipto/g4_20080325.pdf  used on input line 1
-54.
+69.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080325.pdf, id=605, 361.35pt x 193.72375pt>
+<assets/eucalipto/g5_20080325.pdf, id=622, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080325.pdf>
 Package pdftex.def Info: assets/eucalipto/g5_20080325.pdf  used on input line 1
-55.
+70.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
  [7 <./assets/grumixama/g1_20131203.pdf> <./assets/grumixama/g2_20131203.pdf
 
@@ -1533,35 +1542,35 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/grumixama/g5_20131203.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<assets/eucalipto/g1_20080617.pdf, id=728, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080617.pdf, id=745, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080617.pdf>
 Package pdftex.def Info: assets/eucalipto/g1_20080617.pdf  used on input line 1
-61.
+76.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080617.pdf, id=729, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080617.pdf, id=746, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g2_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g2_20080617.pdf>
 Package pdftex.def Info: assets/eucalipto/g2_20080617.pdf  used on input line 1
-62.
+77.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080617.pdf, id=730, 361.35pt x 193.72375pt>
+<assets/eucalipto/g3_20080617.pdf, id=747, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g3_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g3_20080617.pdf>
 Package pdftex.def Info: assets/eucalipto/g3_20080617.pdf  used on input line 1
-63.
+78.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080617.pdf, id=731, 361.35pt x 193.72375pt>
+<assets/eucalipto/g4_20080617.pdf, id=748, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g4_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g4_20080617.pdf>
 Package pdftex.def Info: assets/eucalipto/g4_20080617.pdf  used on input line 1
-64.
+79.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080617.pdf, id=732, 361.35pt x 193.72375pt>
+<assets/eucalipto/g5_20080617.pdf, id=749, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080617.pdf>
 Package pdftex.def Info: assets/eucalipto/g5_20080617.pdf  used on input line 1
-65.
+80.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
  [8 <./assets/eucalipto/g1_20080324.pdf> <./assets/eucalipto/g2_20080324.pdf
 
@@ -1580,35 +1589,35 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/eucalipto/g5_20080324.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<assets/eucalipto/g1_20080618.pdf, id=855, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080618.pdf, id=872, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080618.pdf>
 Package pdftex.def Info: assets/eucalipto/g1_20080618.pdf  used on input line 1
-71.
+86.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080618.pdf, id=856, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080618.pdf, id=873, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g2_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g2_20080618.pdf>
 Package pdftex.def Info: assets/eucalipto/g2_20080618.pdf  used on input line 1
-72.
+87.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080618.pdf, id=857, 361.35pt x 193.72375pt>
+<assets/eucalipto/g3_20080618.pdf, id=874, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g3_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g3_20080618.pdf>
 Package pdftex.def Info: assets/eucalipto/g3_20080618.pdf  used on input line 1
-73.
+88.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080618.pdf, id=858, 361.35pt x 193.72375pt>
+<assets/eucalipto/g4_20080618.pdf, id=875, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g4_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g4_20080618.pdf>
 Package pdftex.def Info: assets/eucalipto/g4_20080618.pdf  used on input line 1
-74.
+89.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080618.pdf, id=859, 361.35pt x 193.72375pt>
+<assets/eucalipto/g5_20080618.pdf, id=876, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080618.pdf>
 Package pdftex.def Info: assets/eucalipto/g5_20080618.pdf  used on input line 1
-75.
+90.
 (pdftex.def)             Requested size: 223.07211pt x 119.59312pt.
  [9 <./assets/eucalipto/g1_20080325.pdf> <./assets/eucalipto/g2_20080325.pdf
 
@@ -1661,42 +1670,50 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex.exe (file ./assets/eucalipto/g5_20080618.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 179.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 194.
  (main.xwm) (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DB34455C81D75713CF086B5F397FD697;304.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 8AD2BC0A87BAFA13EB73A05477BB01A7;796
+(rerunfilecheck)             After:  6581AA5D4C894D6218079577FA05FD86;480.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 179.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
  ) 
 Here is how much of TeX's memory you used:
- 28187 strings out of 480790
- 562926 string characters out of 2907056
- 863913 words of memory out of 3000000
- 43617 multiletter control sequences out of 15000+200000
- 547768 words of font info for 66 fonts, out of 3000000 for 9000
+ 28198 strings out of 480790
+ 563072 string characters out of 2907056
+ 863907 words of memory out of 3000000
+ 43624 multiletter control sequences out of 15000+200000
+ 549228 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,13n,80p,990b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,13n,80p,990b,798s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 1000.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0800.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi864\ecbx1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi720\ecrm1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
-gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (12 pages, 1458408 bytes).
+0\ecti1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi720\ecbx1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\renan\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi864\ecbx1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi720\ecrm1200.pk> <C:\Users\renan\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\renan\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (12 pages, 1488129 bytes).
 PDF statistics:
- 1478 PDF objects out of 1728 (max. 8388607)
- 74 named destinations out of 1000 (max. 500000)
- 286 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1562 PDF objects out of 1728 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 310 words of extra memory for PDF output out of 10000 (max. 10000000)
 
