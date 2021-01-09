@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.3)  9 JAN 2021 01:42
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.3)  9 JAN 2021 18:06
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1424,285 +1424,285 @@ Overfull \hbox (20.69705pt too wide) in paragraph at lines 96--98
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-<assets/cana/g1_20150817.pdf, id=101, 361.35pt x 180.675pt>
+<assets/cana/g1_20150817.pdf, id=106, 361.35pt x 180.675pt>
 File: assets/cana/g1_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g1_20150817.pdf>
-Package luatex.def Info: assets/cana/g1_20150817.pdf  used on input line 112.
+Package luatex.def Info: assets/cana/g1_20150817.pdf  used on input line 115.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g2_20150817.pdf, id=102, 361.35pt x 180.675pt>
+<assets/cana/g2_20150817.pdf, id=107, 361.35pt x 180.675pt>
 File: assets/cana/g2_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g2_20150817.pdf>
-Package luatex.def Info: assets/cana/g2_20150817.pdf  used on input line 113.
+Package luatex.def Info: assets/cana/g2_20150817.pdf  used on input line 116.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g3_20150817.pdf, id=103, 361.35pt x 180.675pt>
+<assets/cana/g3_20150817.pdf, id=108, 361.35pt x 180.675pt>
 File: assets/cana/g3_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g3_20150817.pdf>
-Package luatex.def Info: assets/cana/g3_20150817.pdf  used on input line 114.
+Package luatex.def Info: assets/cana/g3_20150817.pdf  used on input line 117.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g4_20150817.pdf, id=104, 361.35pt x 180.675pt>
+<assets/cana/g4_20150817.pdf, id=109, 361.35pt x 180.675pt>
 File: assets/cana/g4_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g4_20150817.pdf>
-Package luatex.def Info: assets/cana/g4_20150817.pdf  used on input line 115.
+Package luatex.def Info: assets/cana/g4_20150817.pdf  used on input line 118.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g5_20150817.pdf, id=105, 361.35pt x 180.675pt>
+<assets/cana/g5_20150817.pdf, id=110, 361.35pt x 180.675pt>
 File: assets/cana/g5_20150817.pdf Graphic file (type pdf)
 <use assets/cana/g5_20150817.pdf>
-Package luatex.def Info: assets/cana/g5_20150817.pdf  used on input line 116.
+Package luatex.def Info: assets/cana/g5_20150817.pdf  used on input line 119.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g1_20151019.pdf, id=106, 361.35pt x 180.675pt>
+<assets/cana/g1_20151019.pdf, id=111, 361.35pt x 180.675pt>
 File: assets/cana/g1_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g1_20151019.pdf>
-Package luatex.def Info: assets/cana/g1_20151019.pdf  used on input line 122.
+Package luatex.def Info: assets/cana/g1_20151019.pdf  used on input line 125.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g2_20151019.pdf, id=107, 361.35pt x 180.675pt>
+<assets/cana/g2_20151019.pdf, id=112, 361.35pt x 180.675pt>
 File: assets/cana/g2_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g2_20151019.pdf>
-Package luatex.def Info: assets/cana/g2_20151019.pdf  used on input line 123.
+Package luatex.def Info: assets/cana/g2_20151019.pdf  used on input line 126.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g3_20151019.pdf, id=108, 361.35pt x 180.675pt>
+<assets/cana/g3_20151019.pdf, id=113, 361.35pt x 180.675pt>
 File: assets/cana/g3_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g3_20151019.pdf>
-Package luatex.def Info: assets/cana/g3_20151019.pdf  used on input line 124.
+Package luatex.def Info: assets/cana/g3_20151019.pdf  used on input line 127.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g4_20151019.pdf, id=109, 361.35pt x 180.675pt>
+<assets/cana/g4_20151019.pdf, id=114, 361.35pt x 180.675pt>
 File: assets/cana/g4_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g4_20151019.pdf>
-Package luatex.def Info: assets/cana/g4_20151019.pdf  used on input line 125.
+Package luatex.def Info: assets/cana/g4_20151019.pdf  used on input line 128.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
-<assets/cana/g5_20151019.pdf, id=110, 361.35pt x 180.675pt>
+<assets/cana/g5_20151019.pdf, id=115, 361.35pt x 180.675pt>
 File: assets/cana/g5_20151019.pdf Graphic file (type pdf)
 <use assets/cana/g5_20151019.pdf>
-Package luatex.def Info: assets/cana/g5_20151019.pdf  used on input line 126.
+Package luatex.def Info: assets/cana/g5_20151019.pdf  used on input line 129.
 (luatex.def)             Requested size: 223.07211pt x 111.53763pt.
 [3] [4<./assets/cana/g1_20150817.pdf><./assets/cana/g2_20150817.pdf><./assets/ca
 na/g3_20150817.pdf><./assets/cana/g4_20150817.pdf><./assets/cana/g5_20150817.pdf
 >]
-<assets/pata/g1_20161128.pdf, id=233, 361.35pt x 193.72375pt>
+<assets/pata/g1_20161128.pdf, id=238, 361.35pt x 193.72375pt>
 File: assets/pata/g1_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g1_20161128.pdf>
-Package luatex.def Info: assets/pata/g1_20161128.pdf  used on input line 133.
+Package luatex.def Info: assets/pata/g1_20161128.pdf  used on input line 136.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g2_20161128.pdf, id=234, 361.35pt x 193.72375pt>
+<assets/pata/g2_20161128.pdf, id=239, 361.35pt x 193.72375pt>
 File: assets/pata/g2_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g2_20161128.pdf>
-Package luatex.def Info: assets/pata/g2_20161128.pdf  used on input line 134.
+Package luatex.def Info: assets/pata/g2_20161128.pdf  used on input line 137.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g3_20161128.pdf, id=235, 361.35pt x 193.72375pt>
+<assets/pata/g3_20161128.pdf, id=240, 361.35pt x 193.72375pt>
 File: assets/pata/g3_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g3_20161128.pdf>
-Package luatex.def Info: assets/pata/g3_20161128.pdf  used on input line 135.
+Package luatex.def Info: assets/pata/g3_20161128.pdf  used on input line 138.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g4_20161128.pdf, id=236, 361.35pt x 193.72375pt>
+<assets/pata/g4_20161128.pdf, id=241, 361.35pt x 193.72375pt>
 File: assets/pata/g4_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g4_20161128.pdf>
-Package luatex.def Info: assets/pata/g4_20161128.pdf  used on input line 136.
+Package luatex.def Info: assets/pata/g4_20161128.pdf  used on input line 139.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/pata/g5_20161128.pdf, id=237, 361.35pt x 193.72375pt>
+<assets/pata/g5_20161128.pdf, id=242, 361.35pt x 193.72375pt>
 File: assets/pata/g5_20161128.pdf Graphic file (type pdf)
 <use assets/pata/g5_20161128.pdf>
-Package luatex.def Info: assets/pata/g5_20161128.pdf  used on input line 137.
+Package luatex.def Info: assets/pata/g5_20161128.pdf  used on input line 140.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
  [5<./assets/cana/g1_20151019.pdf><./assets/cana/g2_20151019.pdf><./assets/cana/
 g3_20151019.pdf><./assets/cana/g4_20151019.pdf><./assets/cana/g5_20151019.pdf>]
-<assets/myrtaceae/g1_20161130.pdf, id=354, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g1_20161130.pdf, id=359, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g1_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g1_20161130.pdf>
 Package luatex.def Info: assets/myrtaceae/g1_20161130.pdf  used on input line 14
-4.
+7.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g2_20161130.pdf, id=355, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g2_20161130.pdf, id=360, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g2_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g2_20161130.pdf>
 Package luatex.def Info: assets/myrtaceae/g2_20161130.pdf  used on input line 14
-5.
+8.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g3_20161130.pdf, id=356, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g3_20161130.pdf, id=361, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g3_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g3_20161130.pdf>
 Package luatex.def Info: assets/myrtaceae/g3_20161130.pdf  used on input line 14
-6.
+9.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g4_20161130.pdf, id=357, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g4_20161130.pdf, id=362, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g4_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g4_20161130.pdf>
-Package luatex.def Info: assets/myrtaceae/g4_20161130.pdf  used on input line 14
-7.
+Package luatex.def Info: assets/myrtaceae/g4_20161130.pdf  used on input line 15
+0.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/myrtaceae/g5_20161130.pdf, id=358, 361.35pt x 193.72375pt>
+<assets/myrtaceae/g5_20161130.pdf, id=363, 361.35pt x 193.72375pt>
 File: assets/myrtaceae/g5_20161130.pdf Graphic file (type pdf)
 <use assets/myrtaceae/g5_20161130.pdf>
-Package luatex.def Info: assets/myrtaceae/g5_20161130.pdf  used on input line 14
-8.
+Package luatex.def Info: assets/myrtaceae/g5_20161130.pdf  used on input line 15
+1.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
  [6<./assets/pata/g1_20161128.pdf><./assets/pata/g2_20161128.pdf><./assets/pata/
 g3_20161128.pdf><./assets/pata/g4_20161128.pdf><./assets/pata/g5_20161128.pdf>]
-<assets/grumixama/g1_20131203.pdf, id=475, 361.35pt x 202.7575pt>
+<assets/grumixama/g1_20131203.pdf, id=480, 361.35pt x 202.7575pt>
 File: assets/grumixama/g1_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g1_20131203.pdf>
 Package luatex.def Info: assets/grumixama/g1_20131203.pdf  used on input line 15
-5.
+8.
 (luatex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g2_20131203.pdf, id=476, 361.35pt x 202.7575pt>
+<assets/grumixama/g2_20131203.pdf, id=481, 361.35pt x 202.7575pt>
 File: assets/grumixama/g2_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g2_20131203.pdf>
 Package luatex.def Info: assets/grumixama/g2_20131203.pdf  used on input line 15
-6.
+9.
 (luatex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g3_20131203.pdf, id=477, 361.35pt x 202.7575pt>
+<assets/grumixama/g3_20131203.pdf, id=482, 361.35pt x 202.7575pt>
 File: assets/grumixama/g3_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g3_20131203.pdf>
-Package luatex.def Info: assets/grumixama/g3_20131203.pdf  used on input line 15
-7.
+Package luatex.def Info: assets/grumixama/g3_20131203.pdf  used on input line 16
+0.
 (luatex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g4_20131203.pdf, id=478, 361.35pt x 202.7575pt>
+<assets/grumixama/g4_20131203.pdf, id=483, 361.35pt x 202.7575pt>
 File: assets/grumixama/g4_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g4_20131203.pdf>
-Package luatex.def Info: assets/grumixama/g4_20131203.pdf  used on input line 15
-8.
+Package luatex.def Info: assets/grumixama/g4_20131203.pdf  used on input line 16
+1.
 (luatex.def)             Requested size: 223.07211pt x 125.17001pt.
-<assets/grumixama/g5_20131203.pdf, id=479, 361.35pt x 202.7575pt>
+<assets/grumixama/g5_20131203.pdf, id=484, 361.35pt x 202.7575pt>
 File: assets/grumixama/g5_20131203.pdf Graphic file (type pdf)
 <use assets/grumixama/g5_20131203.pdf>
-Package luatex.def Info: assets/grumixama/g5_20131203.pdf  used on input line 15
-9.
+Package luatex.def Info: assets/grumixama/g5_20131203.pdf  used on input line 16
+2.
 (luatex.def)             Requested size: 223.07211pt x 125.17001pt.
  [7<./assets/myrtaceae/g1_20161130.pdf><./assets/myrtaceae/g2_20161130.pdf><./as
 sets/myrtaceae/g3_20161130.pdf><./assets/myrtaceae/g4_20161130.pdf><./assets/myr
 taceae/g5_20161130.pdf>]
-<assets/eucalipto/g1_20080324.pdf, id=596, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080324.pdf, id=601, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080324.pdf>
 Package luatex.def Info: assets/eucalipto/g1_20080324.pdf  used on input line 16
-6.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080324.pdf, id=597, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g2_20080324.pdf Graphic file (type pdf)
-<use assets/eucalipto/g2_20080324.pdf>
-Package luatex.def Info: assets/eucalipto/g2_20080324.pdf  used on input line 16
-7.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080324.pdf, id=598, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g3_20080324.pdf Graphic file (type pdf)
-<use assets/eucalipto/g3_20080324.pdf>
-Package luatex.def Info: assets/eucalipto/g3_20080324.pdf  used on input line 16
-8.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080324.pdf, id=599, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g4_20080324.pdf Graphic file (type pdf)
-<use assets/eucalipto/g4_20080324.pdf>
-Package luatex.def Info: assets/eucalipto/g4_20080324.pdf  used on input line 16
 9.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080324.pdf, id=600, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080324.pdf, id=602, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g2_20080324.pdf Graphic file (type pdf)
+<use assets/eucalipto/g2_20080324.pdf>
+Package luatex.def Info: assets/eucalipto/g2_20080324.pdf  used on input line 17
+0.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g3_20080324.pdf, id=603, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g3_20080324.pdf Graphic file (type pdf)
+<use assets/eucalipto/g3_20080324.pdf>
+Package luatex.def Info: assets/eucalipto/g3_20080324.pdf  used on input line 17
+1.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g4_20080324.pdf, id=604, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g4_20080324.pdf Graphic file (type pdf)
+<use assets/eucalipto/g4_20080324.pdf>
+Package luatex.def Info: assets/eucalipto/g4_20080324.pdf  used on input line 17
+2.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g5_20080324.pdf, id=605, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080324.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080324.pdf>
 Package luatex.def Info: assets/eucalipto/g5_20080324.pdf  used on input line 17
-0.
+3.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g1_20080325.pdf, id=601, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080325.pdf, id=606, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080325.pdf>
 Package luatex.def Info: assets/eucalipto/g1_20080325.pdf  used on input line 17
-6.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080325.pdf, id=602, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g2_20080325.pdf Graphic file (type pdf)
-<use assets/eucalipto/g2_20080325.pdf>
-Package luatex.def Info: assets/eucalipto/g2_20080325.pdf  used on input line 17
-7.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080325.pdf, id=603, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g3_20080325.pdf Graphic file (type pdf)
-<use assets/eucalipto/g3_20080325.pdf>
-Package luatex.def Info: assets/eucalipto/g3_20080325.pdf  used on input line 17
-8.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080325.pdf, id=604, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g4_20080325.pdf Graphic file (type pdf)
-<use assets/eucalipto/g4_20080325.pdf>
-Package luatex.def Info: assets/eucalipto/g4_20080325.pdf  used on input line 17
 9.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080325.pdf, id=605, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080325.pdf, id=607, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g2_20080325.pdf Graphic file (type pdf)
+<use assets/eucalipto/g2_20080325.pdf>
+Package luatex.def Info: assets/eucalipto/g2_20080325.pdf  used on input line 18
+0.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g3_20080325.pdf, id=608, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g3_20080325.pdf Graphic file (type pdf)
+<use assets/eucalipto/g3_20080325.pdf>
+Package luatex.def Info: assets/eucalipto/g3_20080325.pdf  used on input line 18
+1.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g4_20080325.pdf, id=609, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g4_20080325.pdf Graphic file (type pdf)
+<use assets/eucalipto/g4_20080325.pdf>
+Package luatex.def Info: assets/eucalipto/g4_20080325.pdf  used on input line 18
+2.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g5_20080325.pdf, id=610, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080325.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080325.pdf>
 Package luatex.def Info: assets/eucalipto/g5_20080325.pdf  used on input line 18
-0.
+3.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
  [8<./assets/grumixama/g1_20131203.pdf><./assets/grumixama/g2_20131203.pdf><./as
 sets/grumixama/g3_20131203.pdf><./assets/grumixama/g4_20131203.pdf><./assets/gru
 mixama/g5_20131203.pdf>]
-<assets/eucalipto/g1_20080617.pdf, id=722, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080617.pdf, id=727, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080617.pdf>
 Package luatex.def Info: assets/eucalipto/g1_20080617.pdf  used on input line 18
-6.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080617.pdf, id=723, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g2_20080617.pdf Graphic file (type pdf)
-<use assets/eucalipto/g2_20080617.pdf>
-Package luatex.def Info: assets/eucalipto/g2_20080617.pdf  used on input line 18
-7.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080617.pdf, id=724, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g3_20080617.pdf Graphic file (type pdf)
-<use assets/eucalipto/g3_20080617.pdf>
-Package luatex.def Info: assets/eucalipto/g3_20080617.pdf  used on input line 18
-8.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080617.pdf, id=725, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g4_20080617.pdf Graphic file (type pdf)
-<use assets/eucalipto/g4_20080617.pdf>
-Package luatex.def Info: assets/eucalipto/g4_20080617.pdf  used on input line 18
 9.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080617.pdf, id=726, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080617.pdf, id=728, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g2_20080617.pdf Graphic file (type pdf)
+<use assets/eucalipto/g2_20080617.pdf>
+Package luatex.def Info: assets/eucalipto/g2_20080617.pdf  used on input line 19
+0.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g3_20080617.pdf, id=729, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g3_20080617.pdf Graphic file (type pdf)
+<use assets/eucalipto/g3_20080617.pdf>
+Package luatex.def Info: assets/eucalipto/g3_20080617.pdf  used on input line 19
+1.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g4_20080617.pdf, id=730, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g4_20080617.pdf Graphic file (type pdf)
+<use assets/eucalipto/g4_20080617.pdf>
+Package luatex.def Info: assets/eucalipto/g4_20080617.pdf  used on input line 19
+2.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g5_20080617.pdf, id=731, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080617.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080617.pdf>
 Package luatex.def Info: assets/eucalipto/g5_20080617.pdf  used on input line 19
-0.
+3.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
  [9<./assets/eucalipto/g1_20080324.pdf><./assets/eucalipto/g2_20080324.pdf><./as
 sets/eucalipto/g3_20080324.pdf><./assets/eucalipto/g4_20080324.pdf><./assets/euc
 alipto/g5_20080324.pdf>]
-<assets/eucalipto/g1_20080618.pdf, id=843, 361.35pt x 193.72375pt>
+<assets/eucalipto/g1_20080618.pdf, id=848, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g1_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g1_20080618.pdf>
 Package luatex.def Info: assets/eucalipto/g1_20080618.pdf  used on input line 19
-6.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g2_20080618.pdf, id=844, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g2_20080618.pdf Graphic file (type pdf)
-<use assets/eucalipto/g2_20080618.pdf>
-Package luatex.def Info: assets/eucalipto/g2_20080618.pdf  used on input line 19
-7.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g3_20080618.pdf, id=845, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g3_20080618.pdf Graphic file (type pdf)
-<use assets/eucalipto/g3_20080618.pdf>
-Package luatex.def Info: assets/eucalipto/g3_20080618.pdf  used on input line 19
-8.
-(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g4_20080618.pdf, id=846, 361.35pt x 193.72375pt>
-File: assets/eucalipto/g4_20080618.pdf Graphic file (type pdf)
-<use assets/eucalipto/g4_20080618.pdf>
-Package luatex.def Info: assets/eucalipto/g4_20080618.pdf  used on input line 19
 9.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
-<assets/eucalipto/g5_20080618.pdf, id=847, 361.35pt x 193.72375pt>
+<assets/eucalipto/g2_20080618.pdf, id=849, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g2_20080618.pdf Graphic file (type pdf)
+<use assets/eucalipto/g2_20080618.pdf>
+Package luatex.def Info: assets/eucalipto/g2_20080618.pdf  used on input line 20
+0.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g3_20080618.pdf, id=850, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g3_20080618.pdf Graphic file (type pdf)
+<use assets/eucalipto/g3_20080618.pdf>
+Package luatex.def Info: assets/eucalipto/g3_20080618.pdf  used on input line 20
+1.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g4_20080618.pdf, id=851, 361.35pt x 193.72375pt>
+File: assets/eucalipto/g4_20080618.pdf Graphic file (type pdf)
+<use assets/eucalipto/g4_20080618.pdf>
+Package luatex.def Info: assets/eucalipto/g4_20080618.pdf  used on input line 20
+2.
+(luatex.def)             Requested size: 223.07211pt x 119.59312pt.
+<assets/eucalipto/g5_20080618.pdf, id=852, 361.35pt x 193.72375pt>
 File: assets/eucalipto/g5_20080618.pdf Graphic file (type pdf)
 <use assets/eucalipto/g5_20080618.pdf>
 Package luatex.def Info: assets/eucalipto/g5_20080618.pdf  used on input line 20
-0.
+3.
 (luatex.def)             Requested size: 223.07211pt x 119.59312pt.
  [10<./assets/eucalipto/g1_20080325.pdf><./assets/eucalipto/g2_20080325.pdf><./a
 ssets/eucalipto/g3_20080325.pdf><./assets/eucalipto/g4_20080325.pdf><./assets/eu
@@ -1711,36 +1711,30 @@ ipto/g2_20080617.pdf><./assets/eucalipto/g3_20080617.pdf><./assets/eucalipto/g4_
 20080617.pdf><./assets/eucalipto/g5_20080617.pdf>] [12<./assets/eucalipto/g1_200
 80618.pdf><./assets/eucalipto/g2_20080618.pdf><./assets/eucalipto/g3_20080618.pd
 f><./assets/eucalipto/g4_20080618.pdf><./assets/eucalipto/g5_20080618.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 204.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 207.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 207.
  (./main.xwm) (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 207.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: FDED758D385700FAC20A7DF6C9757E58;1257.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B4AC9EF297A17016671ACE832EDEEE35;539
-(rerunfilecheck)             After:  AE5C1262B29B68DC3244E0BF608AFCE4;1153.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32576 strings out of 480878
+ 32578 strings out of 480878
  100000,1144653 words of node,token memory allocated
  588 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 12 attribute, 63 glue_spec
 , 8 attribute_list, 2 write nodes
-   avail lists: 2:1441,3:242,4:31,5:283,6:50,7:4524,8:42,9:413,10:11,11:396
- 48896 multiletter control sequences out of 65536+200000
+   avail lists: 2:1708,3:242,4:33,5:283,6:50,7:4524,8:42,9:468,10:12,11:396
+ 48897 multiletter control sequences out of 65536+200000
  72 fonts using 6404411 bytes
- 58i,13n,80p,962b,799s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,13n,80p,1124b,799s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX/f
 onts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfont
 s/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
@@ -1751,9 +1745,9 @@ lic/lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri1
 2.pfb>
-Output written on main.pdf (13 pages, 1518523 bytes).
+Output written on main.pdf (13 pages, 1520944 bytes).
 
-PDF statistics: 1238 PDF objects out of 1440 (max. 8388607)
- 79 named destinations out of 1000 (max. 131072)
- 96 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1243 PDF objects out of 1440 (max. 8388607)
+ 80 named destinations out of 1000 (max. 131072)
+ 104 words of extra memory for PDF output out of 10000 (max. 100000000)
 
