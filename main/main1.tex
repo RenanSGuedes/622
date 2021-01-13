@@ -11,10 +11,9 @@ left=2.5cm
 ]{geometry}
 
 % language and characters
-\usepackage[utf8]{inputenc}
+%\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[brazilian]{babel}
-\usepackage{indentfirst	}
 \usepackage{
 	amsmath,
 	amsfonts,
@@ -26,11 +25,11 @@ left=2.5cm
 \usepackage{float}
 
 % watermark config
-\usepackage{xwatermark}
+%\usepackage{xwatermark}
 %\newwatermark[allpages, scale=4, angle=60, color=red!30]{text}
 
 % equations numbering
-\numberwithin{equation}{section}
+%\numberwithin{equation}{section}
 
 % graphics insertion
 \usepackage{graphicx}
@@ -40,10 +39,12 @@ left=2.5cm
 \usepackage{hyperref}
 \usepackage[]{cleveref}
 
+\usepackage{indentfirst}
+
 \usepackage{siunitx}
 
 % manual draw
-\usepackage{tikz}
+%\usepackage{tikz}
 
 \begin{document}
 	\begin{titlepage}
@@ -59,26 +60,19 @@ left=2.5cm
 		RENAN DA SILVA GUEDES - 223979\\\vspace{4cm}
 		\begin{center}
 			CAMPINAS - SP\\\vspace{.2cm}
-			AGOSTO
+			JANEIRO
 		\end{center}
 		
 	\end{titlepage}
-
-	\newpage
-	
-	\tableofcontents
-	\listoffigures
 	
 	\newpage
 	
 	\section{Introdução}
-	 
-	Este estudo é referente às características de transpiração apresentadas pelas folhas de diferentes espécies vegetais. A partir da experimentação realizada é visado analisar o comportamento das plantas tendo como parâmetro as condições de estresse hídrico enfrentadas pelas mesmas. Ou seja, sob diferentes potenciais hídricos - $\Psi_{\textrm{pd}}$ - a análise será pautada de modo a contemplar a variação de atributos como a transpiração foliar (E), radiação fotossinteticamente ativa (PAR) e déficit de pressão de vapor (DPV).
+
+	Este estudo é referente às características de transpiração apresentadas pelas folhas de diferentes espécies vegetais. A partir da experimentação realizada é visado analisar o comportamento das plantas tendo como parâmetro as condições de estresse hídrico enfrentadas pelas mesmas. Ou seja, sob diferentes potenciais hídricos - $\Psi_{\textrm{pd}}$ - a análise será pautada de modo a contemplar a variação de atributos como a transpiração foliar (E), radiação fotossinteticamente ativa (PAR) e déficit de pressão de vapor (DPV). 
 	
-	A primeira -- E -- diz respeito ao fluxo de água no em todas as porções da planta abrangendo a absorção feita pelas raízes, transporte de matéria inorgânica feita através do xilema e a transpiração ocorrente na superfície das folhas. 
-	
-	A variável PAR está associada à parcela da energia solar global absorvida pelas plantas que é fundamental para a manutenção de processos fisiológicos e no seu desenvolvimento, principalmente no incremento da biomassa.
-	
+	A primeira -- E -- diz respeito ao fluxo de água em todas as porções da planta abrangendo a absorção feita pelas raízes, transporte de matéria inorgânica feita através do xilema e a transpiração ocorrente na superfície das folhas. A variável PAR está associada à parcela da energia solar global absorvida pelas plantas que é fundamental para a manutenção de processos fisiológicos e no seu desenvolvimento, principalmente no incremento da biomassa.
+	Outro parâmetro fundamental é o DPV que consiste na diferença entre a pressão parcial do ar no ambiente e a capacidade do mesmo em absorver umidade quando está no estágio saturado.
 
 	\subsection{Cana de açúcar}	
 	A primeira parte do estudo diz respeito à cana de açúcar variedade RB67515. Para a mesma a coleta de dados foi feita em duas datas, sendo a primeira em 17/08/2015 e a segunda em 19/10/2015 (Figuras 1 e 2). Com base nisso, nota-se que as duas coletas objetivaram a aquisição de dados em duas condições ambientais diferentes, permitindo comparar a variação dos parâmetros referidos com base em tal mudança.
@@ -96,9 +90,9 @@ left=2.5cm
 	
 	\subsection{Myrtaceae}
 	
-	Para essa espécie, obteve-se que a maior taxa de transpiração ocorreu para o maior potencial hídrico ($\Psi_{\textrm{pd}}=\SI{-0.09}{\mega\pascal}$), dessa forma, foi observado um valor de $\textrm{E}=\SI{1747.8}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$. Em oposição, quando é considerado o menor potencial ($\Psi_{\textrm{pd}}=\SI{-0.12}{\mega\pascal}$) nota-se a ocorrência de duas quedas abruptas na E no intervalo entre as 8h00 e 14h00. É possível notar que para as mesmas foram responsáveis período, sendo que ao meio dia foi atingido um valor de $\textrm{E}=\SI{4}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ que se estabilizou até às 15h00 em 30/11/2016.
+	Para essa espécie, obteve-se que a maior taxa de transpiração ocorreu para o maior potencial hídrico ($\Psi_{\textrm{pd}}=\SI{-0.09}{\mega\pascal}$), dessa forma, foi observado um valor de $\textrm{E}=\SI{1747.8}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$. Em oposição, quando é considerado o menor potencial ($\Psi_{\textrm{pd}}=\SI{-0.12}{\mega\pascal}$) nota-se a ocorrência de duas quedas abruptas na E no intervalo entre as 8h00 e 14h00. Sendo que ao meio dia foi atingido um valor de $\textrm{E}=\SI{4}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ que se estabilizou até às 15h00 em 30/11/2016.
 	
-	De maneira análoga, para a PAR o maior obtido se deu em $\Psi_{\textrm{pd}}=\SI{-0.11}{\mega\pascal}$ -- próximo ao menor potencial -- de modo que a intensidade aferida foi de $\SI{1858}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ às 8h00. Entretanto, para o mesmo $\Psi_{\textrm{pd}}$ às 12h00 foi observada uma $\textrm{PAR}$ correspondente a $\SI{226.8}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ -- menor de todo o período.	
+	De maneira análoga, para a PAR a maior intensidade obtida se deu em $\Psi_{\textrm{pd}}=\SI{-0.11}{\mega\pascal}$ -- próximo ao menor potencial -- de modo que a intensidade aferida foi de $\SI{1858}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ às 8h00. Entretanto, para o mesmo $\Psi_{\textrm{pd}}$ às 12h00 foi observada uma $\textrm{PAR}$ correspondente a $\SI{226.8}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ -- menor de todo o período.	
 	
 	No caso do déficit de pressão de vapor, ao comparar com a espécie anteriormente analisada -- pata de vaca -- tem-se um comportamento muito similar entre ambas, diferenciando-se somente para a última medida realizada. A escala dos DPVs em função do tempo também se manteve, de modo que a sobreposição se repetiu com valores próximos em \SI{}{\kilo\pascal} em ambas as plantas.
 	
@@ -106,13 +100,13 @@ left=2.5cm
 	
 	A grumixama quando analisada nos três quesitos -- E, PAR e DPV -- apresenta um padrão que se distancia da uniformidade apresentada para as outras espécies, principalmente nas duas primeiras grandezas. Com base na respiração coletada dos indivíduos percebe-se uma ascensão da taxa respiratória às 10h00 em 03/12/2013. Para o menor potencial hídrico -- \SI{-.92}{\mega\pascal} -- é notado menor valor de E, sendo a transpiração igual a $\SI{.39}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$, bem distante dos $\SI{5.27}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ obtidos para o mesmo horário com $\Psi_{\textrm{pd}}=\SI{-0.36}{\mega\pascal}$. Dessa maneira, com base no que foi visto, seria normal apontar o potencial hídrico atuando como fator limitante da respiração, ao afetar de modo proporcional E. Todavia, ao comparar a planta com o segundo menor potencial estudado (\SI{-.78}{\mega\pascal}), para o mesmo horário -- 10h00 -- foi aferida a terceira maior taxa de transpiração do período entre as 5h00 e 19h00 ($\textrm{E}=\SI{4.11}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$).
 	
-	Com base no gráfico (b) da Grumixama, nota-se que o comportamento das aferições demonstrou alta intermitência, por conta disso, independentemente do potencial hídrico (\SI{-.92}{\mega\pascal}, \SI{-.78}{\mega\pascal}, \SI{-.35}{\mega\pascal}, \SI{-.39}{\mega\pascal}, \SI{-.36}{\mega\pascal})) os valores de PAR alternaram entre altas e baixas amplitudes para intervalos curtos de tempo. Isso pode ser demonstrado com base na curva onde $\Psi_{\textrm{pd}}=\SI{-.92}{\mega\pascal}$ -- menor $\Psi_{\textrm{pd}}$ --já que às 10h00 foi registrado um valor de PAR entre os mais altos do dia 03/12/2013 -- $\SI{2081}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ -- porém na hora seguinta observa-se uma queda abrupta no PAR ocasionando no menor valor no intervalo das 10h00 às 16h00 -- $\SI{376}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$. 
+	Com base no gráfico (b) da Grumixama, nota-se que o comportamento das aferições demonstrou alta intermitência, por conta disso, independentemente do potencial hídrico (\SI{-.92}{\mega\pascal}, \SI{-.78}{\mega\pascal}, \SI{-.35}{\mega\pascal}, \SI{-.39}{\mega\pascal}, \SI{-.36}{\mega\pascal})) os valores de PAR alternaram entre altas e baixas amplitudes para intervalos curtos de tempo. Isso pode ser demonstrado com base na curva onde $\Psi_{\textrm{pd}}=\SI{-.92}{\mega\pascal}$ -- menor $\Psi_{\textrm{pd}}$ --já que às 10h00 foi registrado um valor de PAR entre os mais altos do dia 03/12/2013 -- $\SI{2081}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ -- porém na hora seguinte observa-se uma queda abrupta na PAR ocasionando no menor valor no intervalo das 10h00 às 16h00 -- $\SI{376}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$. 
 	
 	O DPV desta espécie é caracterizado por aferições que concordam entre si ao longo do tempo, de modo que com o passar das horas o déficit vai sendo incrementado de forma linear -- entre as 7h00 e 12h00. A partir desta última o DPV tende a um leve acréscimo que é acompanhado de uma nova ascendência que atinge o máximo registrado às 15h00 no menor potencial hídrico -- \SI{-.36}{\mega\pascal} -- com $\textrm{DPV}=\SI{3.34}{\kilo\pascal}$.
 	
-	\subsection{Eucalipto}
+	\subsection{Eucalipto (Clones C041 e P4295)}
 	
-	O eucalipto apresentou diversos comportamentos entre as variáveis E, PAR e DPV. Isso demonstra que as condições ambientais atuaram de forma fundamental em seus processos metabólicos, de modo que somente datas muito próximas conseguiram alcançar resultados semelhantes e comparáveis na aferição. As coletas realizadas no dia 25 de março (25/03/2008) apresentaram certo grau de similaridade, principalmente quando se toma como base a radiação fotossinteticamente ativa e o déficit de pressão de vapor. Ao comparar a transpiração nos potenciais de \SI{-.40}{\mega\pascal}, \SI{-.26}{\mega\pascal} e \SI{-.17}{\mega\pascal} no dia 24 percebe-se comportamento similar ao dia 25 quando os valores de $\Psi_{\textrm{pd}}$ são \SI{-.15}{\mega\pascal}, \SI{-.32}{\mega\pascal} e \SI{-.39}{\mega\pascal}, respectivamente. Nesta data, o pico ocorre no mesmo horário de modo que para $\Psi_{\textrm{pd}}=\SI{-.40}{\mega\pascal}$ o valor de $\textrm{E}=\SI{11.11}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ às 13h00. No dia seguinte para o maior $\Psi_{\textrm{pd}}$ -- \SI{-.15}{\mega\pascal} -- o valor de aferido de $\textrm{E}=\SI{13.5}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ As duas plantas analisadas nos dias referidos apresentaram os picos conforme foi mencionada, mas no caso da transpiração do dia 25 pode-se dizer que o valor obtido às 13h00 representa um máximo local. Ao contabilizar a curva ao potencial de $\SI{-.17}{\mega\pascal}$ a máxima taxa de respiração ocorre entre as 16h00 e 18h00, de modo que a E registrada foi de $\SI{17.23}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$.
+	O eucalipto apresentou diversos comportamentos entre as variáveis E, PAR e DPV. Isso demonstra que as condições ambientais atuaram de forma fundamental em seus processos metabólicos, de modo que somente datas muito próximas conseguiram alcançar resultados semelhantes e comparáveis na aferição. As coletas realizadas no dia 25 de março (25/03/2008) apresentaram certo grau de similaridade, principalmente quando se toma como base a radiação fotossinteticamente ativa e o déficit de pressão de vapor. Ao comparar a transpiração nos potenciais de \SI{-.40}{\mega\pascal}, \SI{-.26}{\mega\pascal} e \SI{-.17}{\mega\pascal} no dia 24 percebe-se comportamento similar ao dia 25 quando os valores de $\Psi_{\textrm{pd}}$ são \SI{-.15}{\mega\pascal}, \SI{-.32}{\mega\pascal} e \SI{-.39}{\mega\pascal}, respectivamente. Nesta data, o pico ocorre no mesmo horário de modo que para $\Psi_{\textrm{pd}}=\SI{-.40}{\mega\pascal}$ o valor de $\textrm{E}=\SI{11.11}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ às 13h00. No dia seguinte para o maior $\Psi_{\textrm{pd}}$ -- \SI{-.15}{\mega\pascal} -- o valor aferido foi de $\textrm{E}=\SI{13.5}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$ As duas plantas analisadas nos dias referidos apresentaram os picos conforme foi mencionada, mas no caso da transpiração do dia 25 pode-se dizer que o valor obtido às 13h00 representa um máximo local. Ao contabilizar a curva ao potencial de $\SI{-.17}{\mega\pascal}$ a máxima taxa de respiração ocorre entre as 16h00 e 18h00, de modo que a E registrada foi de $\SI{17.23}{\milli\mole\cdot\meter^{-2}\cdot\second^{-1}}$.
 	
 	No quesito PAR os indivíduos aferidos nos dias 24 e 25 apresentaram comportamentos semelhantes. Uma ressalva a ser feita diz respeito à concidência dos valores próximos a $\SI{2000}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$ para os quatro potenciais analisados (\SI{-.15}{\mega\pascal}, \SI{-.32}{\mega\pascal}, \SI{-.39}{\mega\pascal}, \SI{-.20}{\mega\pascal}) no dia 25 às 13h00. Algo que se difere de forma branda entre as duas datas é o horário  de pico da PAR, onde para o dia 24 obteve-se o pico ao meio dia com $\textrm{PAR}=\SI{2037.3}{\micro\mole\cdot\meter^{-2}\cdot\second^{-1}}$. Nesse caso, o potencial hídrico intermediário e as condições ambientais as quais as plantas estavam submetidas auxiliaram no aumento da PAR. Todavia, baixos valores de $\Psi_{\textrm{pd}}$ foram responsáveis pela aquisição de dados com grande nível de proximidade em relação aos mencionados anteriormente, de modo que os valores de PAR ficaram ligeiramente menores.
 	
@@ -141,11 +135,11 @@ left=2.5cm
 	\section{Cana-de-açúcar variedade RB867515}
 		\begin{figure}[H]
 			\centering
-			\subfloat[Transpiração]{\label{fig:Transpiração}\includegraphics[width=.49\linewidth]{assets/cana/g1_20150817}}
+			\subfloat[Transpiração1]{\label{fig:Transpiração1}\includegraphics[width=.49\linewidth]{assets/cana/g1_20150817}}
 			\subfloat[PAR]{\label{fig:PAR}\includegraphics[width=.49\linewidth]{assets/cana/g2_20150817}}\\
 			\subfloat[DPV]{\label{fig:DPV}\includegraphics[width=.49\linewidth]{assets/cana/g3_20150817}}
-			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR}\includegraphics[width=.49\linewidth]{assets/cana/g4_20150817}}\\
-			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV}\includegraphics[width=.49\linewidth]{assets/cana/g5_20150817}}
+			\subfloat[Transpiração/PAR]{\label{fig:Transpiração/PAR1}\includegraphics[width=.49\linewidth]{assets/cana/g4_20150817}}\\
+			\subfloat[Transpiração/DPV]{\label{fig:Transpiração/DPV1}\includegraphics[width=.49\linewidth]{assets/cana/g5_20150817}}
 			\caption{Cana de açúcar - 17/08/2015}
 			\label{fig:g120150817}
 		\end{figure}
